@@ -39,7 +39,7 @@ src/
 
 ## 🌐 Live Demo
 
-Deployed on Vercel 👉 https://YOUR_DEPLOYED_URL.vercel.app
+Deployed on Vercel 👉 [ProtoShop](https://proto-shop-alpha.vercel.app/)
 
 ## ⚠️ Note
 
